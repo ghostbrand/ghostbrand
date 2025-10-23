@@ -15,10 +15,9 @@
 ---
 
 ### 🧠 Sobre Mim
-Sou **Jaime César Manuel**, um desenvolvedor angolano dedicado à criação de experiências digitais que unem tecnologia e imaginação.  
+Sou **Jaime César Manuel**, um desenvolvedor **Full Stack** angolano com mais de **6 anos de experiência** na criação de experiências digitais que unem tecnologia e imaginação.  
 Atuo no desenvolvimento de **soluções web e mobile**, com ênfase em **design moderno, alto desempenho e impacto funcional**.  
 Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas em sistemas reais, intuitivos e eficientes.
-
 
 ---
 
