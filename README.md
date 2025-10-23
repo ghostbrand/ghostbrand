@@ -129,26 +129,6 @@ Minha missão é **dar forma ao invisível** através do código.
   </p>
 </div>
 
-<!-- CSS Inline -->
-<style>
-  body {
-    background-color: #0A0A0A;
-    color: #EAEAEA;
-    font-family: 'JetBrains Mono', monospace;
-  }
-  table {
-    border: 1px solid #8A2BE2;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(138,43,226,0.3);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  table tr:hover {
-    background-color: rgba(138,43,226,0.1);
-    transform: scale(1.01);
-  }
-  a:hover {
-    text-shadow: 0 0 10px #8A2BE2;
-  }
-</style>
+ 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
