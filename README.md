@@ -15,9 +15,10 @@
 ---
 
 ### 🧠 Sobre Mim
-Sou **Jaime César Manuel**, também conhecido como **GhostBrand** — um desenvolvedor angolano que transforma ideias invisíveis em experiências digitais reais.  
-Crio **soluções web e mobile** com foco em **design moderno, performance e impacto**.  
-Minha missão é **dar forma ao invisível** através do código.
+Sou **Jaime César Manuel**, um desenvolvedor angolano dedicado à criação de experiências digitais que unem tecnologia e imaginação.  
+Atuo no desenvolvimento de **soluções web e mobile**, com ênfase em **design moderno, alto desempenho e impacto funcional**.  
+Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas em sistemas reais, intuitivos e eficientes.
+
 
 ---
 
