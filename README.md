@@ -54,11 +54,11 @@ Minha missão é **dar forma ao invisível** através do código.
   </thead>
   <tbody>
     <tr>
-      <td><i class="fa-solid fa-wifi"></i> <strong><a href="#" style="color:#61DAFB;">Netnix</a></strong></td>
+      <td><i class="fa-solid fa-wifi"></i> <strong>Netnix</strong></td>
       <td>Sistema de gestão de conectividade e pagamento (Gerir o Mikrotik)</td>
     </tr>
     <tr>
-      <td><i class="fa-solid fa-briefcase-medical"></i> <strong><a href="#" style="color:#61DAFB;">Clínica Kaiala</a></strong></td>
+      <td><i class="fa-solid fa-briefcase-medical"></i> <strong>Clínica Kaiala</strong></td>
       <td>Sistema desktop de gestão clínica para a Clínica Kaiala - Uíge, Angola</td>
     </tr>
     <tr>
@@ -70,11 +70,11 @@ Minha missão é **dar forma ao invisível** através do código.
       <td>Portal académico oficial da Faculdade de Economia - Universidade Kimpa Vita</td>
     </tr>
     <tr>
-      <td><i class="fa-solid fa-mobile-screen"></i> <strong><a href="#" style="color:#61DAFB;">KitadiControl</a></strong></td>
+      <td><i class="fa-solid fa-mobile-screen"></i> <strong>KitadiControl</strong></td>
       <td>Aplicativo mobile para controlo e monitoramento de pagamentos locais</td>
     </tr>
     <tr>
-      <td><i class="fa-solid fa-lock"></i> <strong><a href="#" style="color:#61DAFB;">GhostBrand Labs</a></strong></td>
+      <td><i class="fa-solid fa-lock"></i> <strong>GhostBrand Labs</strong></td>
       <td>Fórum privado e experimental para desenvolvimento de ideias e APIs</td>
     </tr>
   </tbody>
