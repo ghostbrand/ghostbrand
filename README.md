@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 Sobre Mim
-Sou **Jaime César Manuel**, conhecido como **GhostBrand**, um desenvolvedor **Full Stack** angolano com mais de **6 anos de experiência** na criação de experiências digitais que unem tecnologia e imaginação.  
+Sou **Jaime César Manuel**, um desenvolvedor **Full Stack** angolano com mais de **6 anos de experiência** na criação de experiências digitais que unem tecnologia e imaginação.  
 Atuo no desenvolvimento de **soluções web e mobile**, com foco em **design moderno, alto desempenho e impacto funcional**.  
 Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas em sistemas reais, intuitivos e eficientes.
 
@@ -77,6 +77,14 @@ Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas e
       <td><i class="fa-solid fa-lock"></i> <strong>GhostBrand Labs</strong></td>
       <td>Fórum privado e experimental para desenvolvimento de ideias e APIs</td>
     </tr>
+    <tr>
+      <td><i class="fa-solid fa-book"></i> <strong>Nkandap</strong></td>
+      <td>Sistema web e mobile para gestão do livro de ponto docente, horários de aula e controlo em tempo real da jurisdição geográfica dos professores</td>
+    </tr>
+    <tr>
+      <td><i class="fa-solid fa-scroll"></i> <strong>Nsiku-UNIKIVI</strong></td>
+      <td>Plataforma para gestão de normas e estatutos da Universidade Kimpa Vita</td>
+    </tr>
   </tbody>
 </table>
 
@@ -98,7 +106,6 @@ Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas e
 ### 🌐 Conecte-se Comigo
 
 <div align="center">
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-c%C3%A9sar-b7773a230)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1a9WmpBzcQ/?mibextid=wwXIfr)
