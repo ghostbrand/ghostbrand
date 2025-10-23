@@ -15,8 +15,8 @@
 ---
 
 ### 🧠 Sobre Mim
-Sou **Jaime César Manuel**, um desenvolvedor **Full Stack** angolano com mais de **6 anos de experiência** na criação de experiências digitais que unem tecnologia e imaginação.  
-Atuo no desenvolvimento de **soluções web e mobile**, com ênfase em **design moderno, alto desempenho e impacto funcional**.  
+Sou **Jaime César Manuel**, conhecido como **GhostBrand**, um desenvolvedor **Full Stack** angolano com mais de **6 anos de experiência** na criação de experiências digitais que unem tecnologia e imaginação.  
+Atuo no desenvolvimento de **soluções web e mobile**, com foco em **design moderno, alto desempenho e impacto funcional**.  
 Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas em sistemas reais, intuitivos e eficientes.
 
 ---
@@ -99,10 +99,13 @@ Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas e
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jaime-césar-b7773a230" target="_blank"><i class="fa-brands fa-linkedin fa-2x" style="color:#0A66C2; margin:10px;"></i></a>
-<a href="https://www.facebook.com/share/1a9WmpBzcQ/?mibextid=wwXIfr" target="_blank"><i class="fa-brands fa-facebook fa-2x" style="color:#1877F2; margin:10px;"></i></a>
-<a href="mailto:jaimecesarmanuel58@gmail.com" target="_blank"><i class="fa-solid fa-envelope fa-2x" style="color:#EA4335; margin:10px;"></i></a>
-<a href="https://wa.me/244924056067?text=Ol%C3%A1%20GhostBrand!%20Vim%20pelo%20GitHub%20e%20quero%20conversar." target="_blank"><i class="fa-brands fa-whatsapp fa-2x" style="color:#25D366; margin:10px;"></i></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-c%C3%A9sar-b7773a230)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1a9WmpBzcQ/?mibextid=wwXIfr)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimecesarmanuel58@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/244924056067?text=Ol%C3%A1%20GhostBrand!%20Vim%20pelo%20GitHub%20e%20quero%20conversar.)
+
+<p style="color:#bbb; margin-top:10px;">📞 +244 924 056 067</p>
 
 </div>
 
@@ -128,7 +131,5 @@ Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas e
     ✨ Crafted by <strong>GhostBrand</strong> | The Invisible Maker
   </p>
 </div>
-
- 
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
