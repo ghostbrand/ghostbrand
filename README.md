@@ -61,9 +61,13 @@ Minha missão é **tornar o invisível visível**, traduzindo ideias abstratas e
       <td><i class="fa-solid fa-briefcase-medical"></i> <strong>Clínica Kaiala</strong></td>
       <td>Sistema desktop de gestão clínica para a Clínica Kaiala - Uíge, Angola</td>
     </tr>
+        <tr>
+      <td><i class="fa-solid fa-globe"></i> <strong><a href="https://bmsec.ao/" style="color:#61DAFB;">BMSEC</a></strong></td>
+      <td>Website institucional da BMSEC</td>
+    </tr>
     <tr>
       <td><i class="fa-solid fa-globe"></i> <strong><a href="https://ramosnetwork.ao/" style="color:#61DAFB;">RamosNetwork</a></strong></td>
-      <td>Website institucional e responsivo da RamosNetwork</td>
+      <td>Website institucional da RamosNetwork</td>
     </tr>
     <tr>
       <td><i class="fa-solid fa-university"></i> <strong><a href="https://fe-unikivi.net/" style="color:#61DAFB;">FE-UniKivi</a></strong></td>
